@@ -1,4 +1,5 @@
 # myfirstRepo
 this is my first repository
 <br>
-Author-Ritesh Kumar
+Author-Ritesh Kumar(Indra Softech)
+top most IT company.
